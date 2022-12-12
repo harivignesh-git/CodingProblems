@@ -1,5 +1,5 @@
 import java.util.*;
-public class peakElement {
+public class minMax {
     public static void main(String[] args){
         int temp=0;
         Scanner sc=new Scanner(System.in);
